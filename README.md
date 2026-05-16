@@ -6,7 +6,7 @@ I'm a **Computer Engineering Student** and **Project Coordination Lead at HSD**,
 
 🚀 **My Core Mission:** Bridging the gap between academic theory and industrial solutions through scalable backend systems and Generative AI.
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omersemihuzun)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omer-semih-uzun/)
 [![Medium](https://img.shields.io/badge/Read-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@omersemihuzun)
 [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail)](mailto:omeruzunsemih@gmail.com)
 
