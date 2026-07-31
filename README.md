@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" style="border-radius: 10px;" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="500" style="border-radius: 10px;" alt="Coding Animation" />
 </div>
 
 <div align="center">
@@ -19,8 +19,7 @@
 🚀 **My Core Mission:** Bridging the gap between academic theory and industrial solutions through scalable backend systems and Generative AI.
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omer-semih-uzun/)
-[![Medium](https://img.shields.io/badge/Read-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@omersemihuzun)
-[![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail)](mailto:omeruzunsemih@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omeruzunsemih@gmail.com)
 
 <br/>
 
