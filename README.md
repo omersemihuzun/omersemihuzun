@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/omersemihuzun">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FE428E&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+%C3%96mer+Semih+Uzun;Welcome+to+my+GitHub+Profile" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+%C3%96mer+Semih+Uzun;Welcome+to+my+GitHub+Profile" alt="Header" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Project+Coordination+Lead+%40+HSD;AI-Driven+Architectures+%26+Cloud+Computing;Generative+AI+%26+RAG+Systems;Bridging+Academia+%26+Industry" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Project+Coordination+Lead+%40+HSD;AI-Driven+Architectures+%26+Cloud+Computing;Generative+AI+%26+RAG+Systems;Bridging+Academia+%26+Industry" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=omersemihuzun&color=fe428e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=omersemihuzun&color=2ea043&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -75,7 +75,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omersemihuzun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=omersemihuzun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=omersemihuzun&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
 </div>
 
