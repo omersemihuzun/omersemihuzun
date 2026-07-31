@@ -1,14 +1,26 @@
 <div align="center">
+  <a href="https://github.com/omersemihuzun">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FE428E&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+%C3%96mer+Semih+Uzun;Welcome+to+my+GitHub+Profile" alt="Header" />
+  </a>
+</div>
 
-# 👋 Hi, I'm Ömer Semih Uzun
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Project+Coordination+Lead+%40+HSD;AI-Driven+Architectures+%26+Cloud+Computing;Generative+AI+%26+RAG+Systems;Bridging+Academia+%26+Industry" alt="Typing SVG" />
+  </a>
+</div>
 
-I'm a **Computer Engineering Student** and **Project Coordination Lead at HSD**, aiming to solve complex problems with **AI-driven architectures** and **Cloud Computing**.
+<div align="center">
 
 🚀 **My Core Mission:** Bridging the gap between academic theory and industrial solutions through scalable backend systems and Generative AI.
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omer-semih-uzun/)
 [![Medium](https://img.shields.io/badge/Read-Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@omersemihuzun)
 [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail)](mailto:omeruzunsemih@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=omersemihuzun&color=fe428e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -60,7 +72,20 @@ I'm a **Computer Engineering Student** and **Project Coordination Lead at HSD**,
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omersemihuzun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=omersemihuzun&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omersemihuzun&theme=radical" width="70%" alt="Profile Summary" />
+</p>
+
+---
+
+<div align="center">
+  <h3>🏙️ 3D Contribution City</h3>
+  <img src="https://raw.githubusercontent.com/omersemihuzun/omersemihuzun/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="80%" />
 </div>
