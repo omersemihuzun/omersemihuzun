@@ -41,25 +41,27 @@
 
 <div align="center">
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,postgres&theme=dark" alt="Languages" />
 
-### **AI & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<br/><br/>
+
+**AI & Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI & Data Science" />
+<br/>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/Architecture-RAG-ff69b4?style=flat-square)
 
-### **Cloud & DevOps**
+<br/><br/>
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" alt="Cloud & DevOps" />
+<br/>
 ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-C7000B?style=flat-square&logo=huawei&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -75,13 +77,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=omersemihuzun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=omersemihuzun&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omersemihuzun&theme=radical" width="70%" alt="Profile Summary" />
-</p>
 
 ---
 
