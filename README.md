@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" style="border-radius: 10px;" alt="Coding Animation" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Project+Coordination+Lead+%40+HSD;AI-Driven+Architectures+%26+Cloud+Computing;Generative+AI+%26+RAG+Systems;Bridging+Academia+%26+Industry" alt="Typing SVG" />
   </a>
@@ -77,8 +81,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=omersemihuzun&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omersemihuzun&theme=radical&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakNum=ffffff" height="150" alt="GitHub Streak" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omersemihuzun&theme=radical" width="70%" alt="Profile Summary" />
+</p>
 
 ---
 
